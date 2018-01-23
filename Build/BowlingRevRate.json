@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BowlingRevRate.data.unityweb",
+"asmCodeUrl": "BowlingRevRate.asm.code.unityweb",
+"asmMemoryUrl": "BowlingRevRate.asm.memory.unityweb",
+"asmFrameworkUrl": "BowlingRevRate.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
